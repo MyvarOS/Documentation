@@ -1,2 +1,2 @@
-# Documentation-
+# Documentation
 The offical Documentation
